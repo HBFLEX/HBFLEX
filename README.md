@@ -10,6 +10,11 @@
 
 -------------------------------------------------------------------------------------------------------------------------------------
 
+## MY TOP LANGUAGES
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HBFLEX)](https://github.com/HBFLEX/github-readme-stats)
+
+-------------------------------------------------------------------------------------------------------------------------------------
+
 ## FRAMEWORKS I USE 🎨
 ![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql)
 ![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white)
