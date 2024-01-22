@@ -3,6 +3,12 @@
 - 👀 with experience of 3+ years
 - 📫 How to reach me email hbfl3x@gmail.com / happybanda@dyuni.ac.mw, phone: +265 982 27 2003
 
+-------------------------------------------------------------------------------------------------------------------------------------
+
+## MY STATS
+[![HBFL3X GitHub stats](https://github-readme-stats.vercel.app/api?username=HBFLEX)](https://github.com/HBFLEX/github-readme-stats)
+
+-------------------------------------------------------------------------------------------------------------------------------------
 
 ## FRAMEWORKS I USE 🎨
 ![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql)
