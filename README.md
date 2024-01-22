@@ -6,7 +6,7 @@
 -------------------------------------------------------------------------------------------------------------------------------------
 
 ## MY STATS
-[![HBFL3X GitHub stats](https://github-readme-stats.vercel.app/api?username=HBFLEX)](https://github.com/HBFLEX/github-readme-stats)
+[![HBFL3X GitHub stats](https://github-readme-stats.vercel.app/api?username=HBFLEX&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)](https://github.com/HBFLEX/github-readme-stats)
 
 -------------------------------------------------------------------------------------------------------------------------------------
 
