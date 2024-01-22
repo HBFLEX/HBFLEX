@@ -7,7 +7,7 @@
 
 ## MY STATS
 [![HBFL3X GitHub stats](https://github-readme-stats.vercel.app/api?username=HBFLEX&show_icons=true&theme=radical)](https://github.com/HBFLEX/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HBFLEX)](https://github.com/HBFLEX/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HBFLEX&hide=css)](https://github.com/HBFLEX/github-readme-stats)
 
 -------------------------------------------------------------------------------------------------------------------------------------
 
