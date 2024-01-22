@@ -5,6 +5,11 @@
 
 -------------------------------------------------------------------------------------------------------------------------------------
 
+## QUOTE OF THE DAY
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+
+-------------------------------------------------------------------------------------------------------------------------------------
+
 ## MY STATS
 [![HBFL3X GitHub stats](https://github-readme-stats.vercel.app/api?username=HBFLEX&show_icons=true&theme=radical)](https://github.com/HBFLEX/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HBFLEX&hide=css&langs_count=8&layout=compact)](https://github.com/HBFLEX/github-readme-stats)
